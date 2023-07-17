@@ -2,6 +2,7 @@
   "name": "renovate-datatables.net-test",
   "version": "0.0.0-set-by-ci",
   "dependencies": {
+    "@types/datatables.net": "1.10.19",
     "datatables.net": "1.12.1",
     "datatables.net-buttons": "2.4.0",
     "datatables.net-dt": "1.12.1",
