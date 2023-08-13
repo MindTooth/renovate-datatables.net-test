@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@types/datatables.net':
-    specifier: 1.10.19
-    version: 1.10.19
+    specifier: 1.10.24
+    version: 1.10.24
   datatables.net:
     specifier: 1.12.1
     version: 1.12.1
@@ -113,8 +113,8 @@ dependencies:
 
 packages:
 
-  /@types/datatables.net@1.10.19:
-    resolution: {integrity: sha512-WuzgytEmsIpVYZbkce+EvK1UqBI7/cwcC/WgYeAtXdq2zi+yWzJwMT5Yb6irAiOi52DBjeAEeRt3bYzFYvHWCQ==}
+  /@types/datatables.net@1.10.24:
+    resolution: {integrity: sha512-Qb82/7Gn0bU36YLiv0MdaqKzhTLfRO9qPvFdkW0miQ6ATMG47aoPn2r//zTvGd3oPSt+Lzp1HSsjP6rZRuki8g==}
     dependencies:
       '@types/jquery': 3.5.16
     dev: false
