@@ -8,6 +8,8 @@
     ":disableRateLimiting"
   ],
 
+  "rebaseWhen": "conflicted",
+
   "recreateWhen": "always",
 
   "enabledManagers": ["npm"]
