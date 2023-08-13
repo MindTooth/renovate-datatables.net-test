@@ -27,11 +27,11 @@ dependencies:
     specifier: 2.3.1
     version: 2.3.1
   datatables.net-colreorder:
-    specifier: 1.6.0
-    version: 1.6.0
+    specifier: 1.7.0
+    version: 1.7.0
   datatables.net-colreorder-dt:
-    specifier: 1.6.0
-    version: 1.6.0
+    specifier: 1.7.0
+    version: 1.7.0
   datatables.net-dt:
     specifier: 1.11.1
     version: 1.11.1
@@ -188,18 +188,18 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-colreorder-dt@1.6.0:
-    resolution: {integrity: sha512-t/JcHU85zv14YW+cBXix8Vjws6NL7VkOZHWJYEXJxEww12ehGVBQsXBD9jnMvs+tXiu8qzf+Wjhe9P9FPe45cg==}
+  /datatables.net-colreorder-dt@1.7.0:
+    resolution: {integrity: sha512-MvLGtux73Fpvy38a3Hx0TnG56XEtHxR21mJZSAIcpBikEndHQIskTC1FuR0wypnvjAyaw7WFWhKmeyMUlq7FQw==}
     dependencies:
-      datatables.net-colreorder: 1.6.0
+      datatables.net-colreorder: 1.7.0
       datatables.net-dt: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-colreorder@1.6.0:
-    resolution: {integrity: sha512-XlDSDzXjT5Q4n13DYnSrxGVivaAtpXbbBa55ZTuvsG1PUpAepJrJv66MVmM97GdmrDMD3Od4vFeZsSSUMvrD5A==}
+  /datatables.net-colreorder@1.7.0:
+    resolution: {integrity: sha512-Vyysfxe2kfjeuPJJMGRQ2jHVOfoadyBYKzizbOHzR2bhTVsIYjrbEhUA1H24TISE17SdR77X0RmcUvS/h/Bifw==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
