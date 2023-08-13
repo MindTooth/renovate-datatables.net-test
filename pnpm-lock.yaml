@@ -36,11 +36,11 @@ dependencies:
     specifier: 1.11.1
     version: 1.11.1
   datatables.net-fixedcolumns:
-    specifier: 4.2.0
-    version: 4.2.0
+    specifier: 4.3.0
+    version: 4.3.0
   datatables.net-fixedcolumns-dt:
-    specifier: 4.2.0
-    version: 4.2.0
+    specifier: 4.3.0
+    version: 4.3.0
   datatables.net-fixedheader:
     specifier: 3.3.0
     version: 3.3.0
@@ -217,18 +217,18 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-fixedcolumns-dt@4.2.0:
-    resolution: {integrity: sha512-pAzCwEzQZQPeKx34GF2Jq5K/HVD6W2wwECxXHG/7LFsiQWvZ6s55ew7yHuwiPXHNQWL3ZZHldnEVNvjgYvIAPA==}
+  /datatables.net-fixedcolumns-dt@4.3.0:
+    resolution: {integrity: sha512-z+nDZ0E6U1FiStML6lMYJ2kHLsjyrD/KONFJq1Ciopia0XUDuRpG/F/pJRGPxe5FPdqxHMy9FGaqPYFZcO0y7A==}
     dependencies:
       datatables.net-dt: 1.13.6
-      datatables.net-fixedcolumns: 4.2.0
+      datatables.net-fixedcolumns: 4.3.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-fixedcolumns@4.2.0:
-    resolution: {integrity: sha512-eoMNGT9rmX/Ul4KiTWi4q+FYm8BzDO2EZO00vkC/Y752syo8YKanjaL3h9lPY7SE7ZVoIpM4DO+MLWdF0bQ5xw==}
+  /datatables.net-fixedcolumns@4.3.0:
+    resolution: {integrity: sha512-H2otCswJDHufI4A8k7HUDj25HCB3a44KFnBlYEwYFWdrJayLcYB3I79kBjS8rSCu4rFEp0I9nVLKvWgKlZZgCQ==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
