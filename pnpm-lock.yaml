@@ -96,14 +96,14 @@ dependencies:
     specifier: 2.1.0
     version: 2.1.0
   datatables.net-select:
-    specifier: 1.5.0
-    version: 1.5.0
+    specifier: 1.7.0
+    version: 1.7.0
   datatables.net-select-bs5:
-    specifier: 1.6.0
-    version: 1.6.0
+    specifier: 1.7.0
+    version: 1.7.0
   datatables.net-select-dt:
-    specifier: 1.4.0
-    version: 1.4.0
+    specifier: 1.7.0
+    version: 1.7.0
   datatables.net-staterestore:
     specifier: 1.1.0
     version: 1.1.0
@@ -390,26 +390,26 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-select-bs5@1.6.0:
-    resolution: {integrity: sha512-6vOeEqe+HmU6r4jKjgQsNfSkmUd6Ei7PyaSc6XpmWFZ4oRWu/tKoVQWd1KXRv5S6gZmlNowKXeafQYjpmHMLAg==}
+  /datatables.net-select-bs5@1.7.0:
+    resolution: {integrity: sha512-9lDH+V+9ewaVSpKUFMplmpxEBM6eeUl0C+feGD4BRKkrFhMAzVYfuLibm4/gJvG0burQciO9U9eoLI9ywdiWWw==}
     dependencies:
       datatables.net-bs5: 1.13.6
-      datatables.net-select: 1.5.0
+      datatables.net-select: 1.7.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-select-dt@1.4.0:
-    resolution: {integrity: sha512-DhaDr+mjYok4VxiwxU55VI/7s0qGnU6cPlw9/PFfWloQ2Q3Wy449szOCZiX2QzJqPzWbrG5WjilS9o9ZydC46A==}
+  /datatables.net-select-dt@1.7.0:
+    resolution: {integrity: sha512-2A10LF3ux9gUNxtITlNjAvBcvtrMbl/9PgK5FHtAhwcgEcDMCPIis7NTq+hXjg9IZqqZDzScw52/s5XwMNHhZQ==}
     dependencies:
       datatables.net-dt: 1.13.6
-      datatables.net-select: 1.5.0
+      datatables.net-select: 1.7.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-select@1.5.0:
-    resolution: {integrity: sha512-PVYcX5phmu77r3a6miTyS1zF03cgX7Mx+BXH4wCJzZW+UHe2Xz9DAHgxvLQfE7j2M8LG45Ww7RxBhnkFKk1t7A==}
+  /datatables.net-select@1.7.0:
+    resolution: {integrity: sha512-ps8eL8S2gUV7EdzMraw8mfQlHXpfuc8TC2onBxdk0snP8eizPe85VhpI3r4ULvPRTTI7vcViz8E7JV8aayA2lw==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
