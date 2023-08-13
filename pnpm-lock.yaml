@@ -51,11 +51,11 @@ dependencies:
     specifier: 3.3.0
     version: 3.3.0
   datatables.net-keytable:
-    specifier: 2.9.0
-    version: 2.9.0
+    specifier: 2.10.0
+    version: 2.10.0
   datatables.net-keytable-bs5:
-    specifier: 2.8.0
-    version: 2.8.0
+    specifier: 2.10.0
+    version: 2.10.0
   datatables.net-responsive:
     specifier: 2.4.0
     version: 2.4.0
@@ -255,18 +255,18 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-keytable-bs5@2.8.0:
-    resolution: {integrity: sha512-C/UONPd0474SpyLJghupTku2F7dJX3ctn5ZMHTU77s2ICJZMIGmRzDql80liA8VsFQMcKMJvOsAGBhWPQOnuXA==}
+  /datatables.net-keytable-bs5@2.10.0:
+    resolution: {integrity: sha512-PRyBiPWHMN4fYGRmdVhyMXOvgGCjSoE+RjHY2xDQUfLSF/uQcsg7SboujDGwP6zvbA5EHeZ8A7uyEfViURPSMA==}
     dependencies:
       datatables.net-bs5: 1.13.6
-      datatables.net-keytable: 2.9.0
+      datatables.net-keytable: 2.10.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-keytable@2.9.0:
-    resolution: {integrity: sha512-qMJSEonyO6dJR36aKeBGl3P6a2e7A+lon5CZuE4mbNzb4iahcpbd+nlEAyvgeM6oOtFIPDSg3vsR9kb3hQ+f0A==}
+  /datatables.net-keytable@2.10.0:
+    resolution: {integrity: sha512-byQbTx47wzXnq/vKyoFpFQvIVkBXgtTN4uBsEA0GIdGRAn1kjX+WJWohDQSjUHBHcg4KvbQSIl9Yd7DZUjiNPg==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
