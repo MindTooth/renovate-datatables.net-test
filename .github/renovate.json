@@ -8,5 +8,7 @@
     ":disableRateLimiting"
   ],
 
+  "recreateWhen": "always",
+
   "enabledManagers": ["npm"]
 }
