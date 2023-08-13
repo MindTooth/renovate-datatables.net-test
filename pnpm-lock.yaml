@@ -78,11 +78,11 @@ dependencies:
     specifier: 1.2.1
     version: 1.2.1
   datatables.net-scroller:
-    specifier: 2.1.0
-    version: 2.1.0
+    specifier: 2.2.0
+    version: 2.2.0
   datatables.net-scroller-bs5:
-    specifier: 2.1.0
-    version: 2.1.0
+    specifier: 2.2.0
+    version: 2.2.0
   datatables.net-searchbuilder:
     specifier: 1.4.0
     version: 1.4.0
@@ -338,18 +338,18 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-scroller-bs5@2.1.0:
-    resolution: {integrity: sha512-DtS0KrGuGgnw5fusGZVtxD6nG6mcsfbKxpbhFfjqo26pSJy/C45E5gRv+mjluVb9iUwSCXpUbHD8Mggn5zlm4A==}
+  /datatables.net-scroller-bs5@2.2.0:
+    resolution: {integrity: sha512-eWTgy41lpPRUoTTAspbZLWBQvsexXCVSFNapBPXX4lx1HopMM0fQ5Hxy+liU8IyuBMCHUqO1RxY/URPyWrCtuQ==}
     dependencies:
       datatables.net-bs5: 1.13.6
-      datatables.net-scroller: 2.1.0
+      datatables.net-scroller: 2.2.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-scroller@2.1.0:
-    resolution: {integrity: sha512-B/MxP8YPcFtoa1cexvlcK0PXQdzy6tz+HhQlyjNpRCoRc/8ZM5VcZg+ecYfP/pRBBXZORgkOJjWYkIdoChhE0w==}
+  /datatables.net-scroller@2.2.0:
+    resolution: {integrity: sha512-+erNWYqb8qTGhtt23Weh/i2XuEPthHGtZobAEEqpTZSg7IXMl6jKDh41LAI0+KfvzSPURK1ttVRBtigyNS/zyA==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
