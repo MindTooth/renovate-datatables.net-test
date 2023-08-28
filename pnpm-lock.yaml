@@ -12,11 +12,11 @@ dependencies:
     specifier: 1.12.1
     version: 1.12.1
   datatables.net-autofill:
-    specifier: 2.5.0
-    version: 2.5.0
+    specifier: 2.6.0
+    version: 2.6.0
   datatables.net-autofill-dt:
-    specifier: 2.5.0
-    version: 2.5.0
+    specifier: 2.6.0
+    version: 2.6.0
   datatables.net-buttons:
     specifier: 2.3.0
     version: 2.3.0
@@ -129,18 +129,18 @@ packages:
     resolution: {integrity: sha512-JYM8x9EGF163bEyhdJBpR2QX1R5naCJHC8ucJylJ3w9/CVBaskdQ8WqBf8MmQrd1kRvp/a4TS8HJ+bxzR7ZJYQ==}
     dev: false
 
-  /datatables.net-autofill-dt@2.5.0:
-    resolution: {integrity: sha512-qhbovS5HqO6V1TCXajp7O1Si3nrig72n82rSqbQfSEiC73AKocuSNuHKLkjJVLkOUw6H49KEeudPDjZhVLgxyg==}
+  /datatables.net-autofill-dt@2.6.0:
+    resolution: {integrity: sha512-jZU88Vk4Q4u7APtuNWRik1lKAoheESahDr2nqnf/G3+j+mxMv04cWMgPzD4P7GOEX/RSetxouMoaNnr1wwEo+g==}
     dependencies:
-      datatables.net-autofill: 2.5.0
+      datatables.net-autofill: 2.6.0
       datatables.net-dt: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-autofill@2.5.0:
-    resolution: {integrity: sha512-OU23ZK/FwMnnApxg/S0MKbPwj6TCGrl4dbUj9VUHVaicTloOvjsSxd6+EnhCwcCvYBcCBzUyE1NBSPX0A62xNg==}
+  /datatables.net-autofill@2.6.0:
+    resolution: {integrity: sha512-vDZxBZtJq3lBiI0Feruo+MrWA/Mz7SbWKQqq3SOoZnYsD2EJVZ7LX1nWMoUJh4n/5FM+tViGQvh3gj/J6tiTCw==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
