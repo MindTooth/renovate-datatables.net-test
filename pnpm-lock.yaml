@@ -9,107 +9,107 @@ dependencies:
     specifier: 1.10.19
     version: 1.10.19
   datatables.net:
-    specifier: 1.12.1
-    version: 1.12.1
+    specifier: 1.13.6
+    version: 1.13.6
   datatables.net-autofill:
-    specifier: 2.5.0
-    version: 2.5.0
+    specifier: 2.6.0
+    version: 2.6.0
   datatables.net-autofill-dt:
+    specifier: 2.6.0
+    version: 2.6.0
+  datatables.net-buttons:
+    specifier: 2.4.1
+    version: 2.4.1
+  datatables.net-buttons-bs4:
+    specifier: 2.4.1
+    version: 2.4.1
+  datatables.net-buttons-dt:
+    specifier: 2.4.1
+    version: 2.4.1
+  datatables.net-colreorder:
+    specifier: 1.7.0
+    version: 1.7.0
+  datatables.net-colreorder-dt:
+    specifier: 1.7.0
+    version: 1.7.0
+  datatables.net-dt:
+    specifier: 1.13.6
+    version: 1.13.6
+  datatables.net-fixedcolumns:
+    specifier: 4.3.0
+    version: 4.3.0
+  datatables.net-fixedcolumns-dt:
+    specifier: 4.3.0
+    version: 4.3.0
+  datatables.net-fixedheader:
+    specifier: 3.4.0
+    version: 3.4.0
+  datatables.net-fixedheader-bs:
+    specifier: 3.4.0
+    version: 3.4.0
+  datatables.net-fixedheader-dt:
+    specifier: 3.4.0
+    version: 3.4.0
+  datatables.net-keytable:
+    specifier: 2.10.0
+    version: 2.10.0
+  datatables.net-keytable-bs5:
+    specifier: 2.10.0
+    version: 2.10.0
+  datatables.net-responsive:
     specifier: 2.5.0
     version: 2.5.0
-  datatables.net-buttons:
-    specifier: 2.3.0
-    version: 2.3.0
-  datatables.net-buttons-bs4:
-    specifier: 2.3.1
-    version: 2.3.1
-  datatables.net-buttons-dt:
-    specifier: 2.3.1
-    version: 2.3.1
-  datatables.net-colreorder:
-    specifier: 1.6.0
-    version: 1.6.0
-  datatables.net-colreorder-dt:
-    specifier: 1.6.0
-    version: 1.6.0
-  datatables.net-dt:
-    specifier: 1.11.1
-    version: 1.11.1
-  datatables.net-fixedcolumns:
-    specifier: 4.2.0
-    version: 4.2.0
-  datatables.net-fixedcolumns-dt:
-    specifier: 4.2.0
-    version: 4.2.0
-  datatables.net-fixedheader:
-    specifier: 3.3.0
-    version: 3.3.0
-  datatables.net-fixedheader-bs:
-    specifier: 3.3.0
-    version: 3.3.0
-  datatables.net-fixedheader-dt:
-    specifier: 3.3.0
-    version: 3.3.0
-  datatables.net-keytable:
-    specifier: 2.9.0
-    version: 2.9.0
-  datatables.net-keytable-bs5:
-    specifier: 2.8.0
-    version: 2.8.0
-  datatables.net-responsive:
-    specifier: 2.4.0
-    version: 2.4.0
   datatables.net-responsive-bs4:
-    specifier: 2.3.0
-    version: 2.3.0
+    specifier: 2.5.0
+    version: 2.5.0
   datatables.net-rowgroup:
-    specifier: 1.2.0
-    version: 1.2.0
-  datatables.net-rowgroup-bs5:
-    specifier: 1.3.0
-    version: 1.3.0
-  datatables.net-rowgroup-dt:
-    specifier: 1.1.0
-    version: 1.1.0
-  datatables.net-rowreorder:
-    specifier: 1.2.0
-    version: 1.2.0
-  datatables.net-rowreorder-dt:
-    specifier: 1.2.1
-    version: 1.2.1
-  datatables.net-scroller:
-    specifier: 2.1.0
-    version: 2.1.0
-  datatables.net-scroller-bs5:
-    specifier: 2.1.0
-    version: 2.1.0
-  datatables.net-searchbuilder:
     specifier: 1.4.0
     version: 1.4.0
-  datatables.net-searchbuilder-bs5:
-    specifier: 1.3.0
-    version: 1.3.0
-  datatables.net-searchpanes:
-    specifier: 2.0.0
-    version: 2.0.0
-  datatables.net-searchpanes-dt:
-    specifier: 2.1.0
-    version: 2.1.0
-  datatables.net-select:
+  datatables.net-rowgroup-bs5:
+    specifier: 1.4.0
+    version: 1.4.0
+  datatables.net-rowgroup-dt:
+    specifier: 1.4.0
+    version: 1.4.0
+  datatables.net-rowreorder:
+    specifier: 1.4.1
+    version: 1.4.1
+  datatables.net-rowreorder-dt:
+    specifier: 1.4.1
+    version: 1.4.1
+  datatables.net-scroller:
+    specifier: 2.2.0
+    version: 2.2.0
+  datatables.net-scroller-bs5:
+    specifier: 2.2.0
+    version: 2.2.0
+  datatables.net-searchbuilder:
     specifier: 1.5.0
     version: 1.5.0
+  datatables.net-searchbuilder-bs5:
+    specifier: 1.5.0
+    version: 1.5.0
+  datatables.net-searchpanes:
+    specifier: 2.2.0
+    version: 2.2.0
+  datatables.net-searchpanes-dt:
+    specifier: 2.2.0
+    version: 2.2.0
+  datatables.net-select:
+    specifier: 1.7.0
+    version: 1.7.0
   datatables.net-select-bs5:
-    specifier: 1.6.0
-    version: 1.6.0
+    specifier: 1.7.0
+    version: 1.7.0
   datatables.net-select-dt:
-    specifier: 1.4.0
-    version: 1.4.0
+    specifier: 1.7.0
+    version: 1.7.0
   datatables.net-staterestore:
-    specifier: 1.1.0
-    version: 1.1.0
+    specifier: 1.3.0
+    version: 1.3.0
   datatables.net-staterestore-dt:
-    specifier: 1.2.0
-    version: 1.2.0
+    specifier: 1.3.0
+    version: 1.3.0
 
 packages:
 
@@ -129,18 +129,18 @@ packages:
     resolution: {integrity: sha512-JYM8x9EGF163bEyhdJBpR2QX1R5naCJHC8ucJylJ3w9/CVBaskdQ8WqBf8MmQrd1kRvp/a4TS8HJ+bxzR7ZJYQ==}
     dev: false
 
-  /datatables.net-autofill-dt@2.5.0:
-    resolution: {integrity: sha512-qhbovS5HqO6V1TCXajp7O1Si3nrig72n82rSqbQfSEiC73AKocuSNuHKLkjJVLkOUw6H49KEeudPDjZhVLgxyg==}
+  /datatables.net-autofill-dt@2.6.0:
+    resolution: {integrity: sha512-jZU88Vk4Q4u7APtuNWRik1lKAoheESahDr2nqnf/G3+j+mxMv04cWMgPzD4P7GOEX/RSetxouMoaNnr1wwEo+g==}
     dependencies:
-      datatables.net-autofill: 2.5.0
+      datatables.net-autofill: 2.6.0
       datatables.net-dt: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-autofill@2.5.0:
-    resolution: {integrity: sha512-OU23ZK/FwMnnApxg/S0MKbPwj6TCGrl4dbUj9VUHVaicTloOvjsSxd6+EnhCwcCvYBcCBzUyE1NBSPX0A62xNg==}
+  /datatables.net-autofill@2.6.0:
+    resolution: {integrity: sha512-vDZxBZtJq3lBiI0Feruo+MrWA/Mz7SbWKQqq3SOoZnYsD2EJVZ7LX1nWMoUJh4n/5FM+tViGQvh3gj/J6tiTCw==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
@@ -165,48 +165,41 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-buttons-bs4@2.3.1:
-    resolution: {integrity: sha512-l1IALA07f+ipkPlD19zX3w6xfwOH5n/Uv9o/WOF/WIMjsA+4DzASi8yvQ6jfxThcgAvSfuP89qs70ZMfOnsaUg==}
+  /datatables.net-buttons-bs4@2.4.1:
+    resolution: {integrity: sha512-RhOKkQ9aCmCi6a5sAKh3zOZGvLxkvjPmvUwAhtWlE9VblaPpObQ/GRP7kBcv7qzweZdVOJHmTPLto6JLwou5qQ==}
     dependencies:
       datatables.net-bs4: 1.13.6
-      datatables.net-buttons: 2.3.0
+      datatables.net-buttons: 2.4.1
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-buttons-dt@2.3.1:
-    resolution: {integrity: sha512-mRkqMSyj707lwoT06esYQELBLDGDY5zpSASHOSMSv9ys3hApML9nZRY0Zx2igEl4cRkHoF+/aqRjHd2YIZI7/w==}
+  /datatables.net-buttons-dt@2.4.1:
+    resolution: {integrity: sha512-Pt/X+WS/20fOYU8/U8s2y5XF8LeJO+YvMnKkTEFIX1Pd/m680eBVcBjfIxBxRvLekPVD/nkRznXEh2Hx4uV14A==}
     dependencies:
-      datatables.net-buttons: 2.3.0
+      datatables.net-buttons: 2.4.1
       datatables.net-dt: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-buttons@2.3.0:
-    resolution: {integrity: sha512-uPZcQ29kkeF7BiHhZcbNqJVHa+F90kI+rftfeODli2FzDEnHUupE0+b/aoTLLg/hkhBwVNH7JFsOZtgWW7iijw==}
+  /datatables.net-buttons@2.4.1:
+    resolution: {integrity: sha512-Z788xsbGW+YqJWgQYCzE5IsbY8MNIihhDP/LOefijEn7MM1/jf4sQdf/KRNHr/CWTFGfojGPz+GNdJh8appeQQ==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-colreorder-dt@1.6.0:
-    resolution: {integrity: sha512-t/JcHU85zv14YW+cBXix8Vjws6NL7VkOZHWJYEXJxEww12ehGVBQsXBD9jnMvs+tXiu8qzf+Wjhe9P9FPe45cg==}
+  /datatables.net-colreorder-dt@1.7.0:
+    resolution: {integrity: sha512-MvLGtux73Fpvy38a3Hx0TnG56XEtHxR21mJZSAIcpBikEndHQIskTC1FuR0wypnvjAyaw7WFWhKmeyMUlq7FQw==}
     dependencies:
-      datatables.net-colreorder: 1.6.0
+      datatables.net-colreorder: 1.7.0
       datatables.net-dt: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-colreorder@1.6.0:
-    resolution: {integrity: sha512-XlDSDzXjT5Q4n13DYnSrxGVivaAtpXbbBa55ZTuvsG1PUpAepJrJv66MVmM97GdmrDMD3Od4vFeZsSSUMvrD5A==}
+  /datatables.net-colreorder@1.7.0:
+    resolution: {integrity: sha512-Vyysfxe2kfjeuPJJMGRQ2jHVOfoadyBYKzizbOHzR2bhTVsIYjrbEhUA1H24TISE17SdR77X0RmcUvS/h/Bifw==}
     dependencies:
-      datatables.net: 1.12.1
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-dt@1.11.1:
-    resolution: {integrity: sha512-BjNKZAZ+N/K9Pv2SSlHYiG3JNx2Roqx/WGhTI4I9GXs/vcW9NESfQuNcw4KzwFKj5TSh5kVn2Frn3yxVHabNUw==}
-    dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
@@ -217,169 +210,147 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-fixedcolumns-dt@4.2.0:
-    resolution: {integrity: sha512-pAzCwEzQZQPeKx34GF2Jq5K/HVD6W2wwECxXHG/7LFsiQWvZ6s55ew7yHuwiPXHNQWL3ZZHldnEVNvjgYvIAPA==}
+  /datatables.net-fixedcolumns-dt@4.3.0:
+    resolution: {integrity: sha512-z+nDZ0E6U1FiStML6lMYJ2kHLsjyrD/KONFJq1Ciopia0XUDuRpG/F/pJRGPxe5FPdqxHMy9FGaqPYFZcO0y7A==}
     dependencies:
       datatables.net-dt: 1.13.6
-      datatables.net-fixedcolumns: 4.2.0
+      datatables.net-fixedcolumns: 4.3.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-fixedcolumns@4.2.0:
-    resolution: {integrity: sha512-eoMNGT9rmX/Ul4KiTWi4q+FYm8BzDO2EZO00vkC/Y752syo8YKanjaL3h9lPY7SE7ZVoIpM4DO+MLWdF0bQ5xw==}
+  /datatables.net-fixedcolumns@4.3.0:
+    resolution: {integrity: sha512-H2otCswJDHufI4A8k7HUDj25HCB3a44KFnBlYEwYFWdrJayLcYB3I79kBjS8rSCu4rFEp0I9nVLKvWgKlZZgCQ==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-fixedheader-bs@3.3.0:
-    resolution: {integrity: sha512-9i7wmn9adxVz58G54Ahsdm309VUZb6HTSUMyPW25TE4z5G80y2kIjp5NOhiYhMgR6KluGqolz7SqIdAAkE4ecQ==}
+  /datatables.net-fixedheader-bs@3.4.0:
+    resolution: {integrity: sha512-qiOPkqW7uy9rkEPsGe1Qu/87W6r9JwGxmDi4+lGmxbhyIshWUfAYtdav7I/IYlOL0/kJI4DzkfDfM/c1NZ/XIA==}
     dependencies:
       datatables.net-bs: 1.13.6
-      datatables.net-fixedheader: 3.3.0
+      datatables.net-fixedheader: 3.4.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-fixedheader-dt@3.3.0:
-    resolution: {integrity: sha512-hDfLnWUOPq7q1extc9EcjJMcWMsh7zSmOQAREDgsjPakD10B6ZQVOtUEo3B307l82uCmQSFt+N70SKVa6z1GrQ==}
+  /datatables.net-fixedheader-dt@3.4.0:
+    resolution: {integrity: sha512-8Rru8qHNIcFZA7iCoel4n7sUt0Rbb7UcdTlhqSs/Bg48ED/tIMbdsuABvf8vO8b/DOR2Sotc05WFT8iVpCD0gw==}
     dependencies:
       datatables.net-dt: 1.13.6
-      datatables.net-fixedheader: 3.3.0
+      datatables.net-fixedheader: 3.4.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-fixedheader@3.3.0:
-    resolution: {integrity: sha512-Imj2nX2qEiOV5wDyU67SU9dJUSoNvsxaJMk3YHTl9/3cp1LjbNzyuMKKJaAHyh+hsl1Vqp8MScu7eXdXNrss4Q==}
+  /datatables.net-fixedheader@3.4.0:
+    resolution: {integrity: sha512-qglLTqo/T0IJq0Lp7Ca7wEo50T1iqUO2+YeVG4Ddy6ML5f66B7mLZLzP6yy8zXACFjlRGBDEDxD0ato3g6tviA==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-keytable-bs5@2.8.0:
-    resolution: {integrity: sha512-C/UONPd0474SpyLJghupTku2F7dJX3ctn5ZMHTU77s2ICJZMIGmRzDql80liA8VsFQMcKMJvOsAGBhWPQOnuXA==}
+  /datatables.net-keytable-bs5@2.10.0:
+    resolution: {integrity: sha512-PRyBiPWHMN4fYGRmdVhyMXOvgGCjSoE+RjHY2xDQUfLSF/uQcsg7SboujDGwP6zvbA5EHeZ8A7uyEfViURPSMA==}
     dependencies:
       datatables.net-bs5: 1.13.6
-      datatables.net-keytable: 2.9.0
+      datatables.net-keytable: 2.10.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-keytable@2.9.0:
-    resolution: {integrity: sha512-qMJSEonyO6dJR36aKeBGl3P6a2e7A+lon5CZuE4mbNzb4iahcpbd+nlEAyvgeM6oOtFIPDSg3vsR9kb3hQ+f0A==}
+  /datatables.net-keytable@2.10.0:
+    resolution: {integrity: sha512-byQbTx47wzXnq/vKyoFpFQvIVkBXgtTN4uBsEA0GIdGRAn1kjX+WJWohDQSjUHBHcg4KvbQSIl9Yd7DZUjiNPg==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-responsive-bs4@2.3.0:
-    resolution: {integrity: sha512-6ZeFeM6PHh3A5BodxUvHU1ipIrMYMbBcOgB3BfXMHxr4maS96RIQdTmXK3owJ5sy88dF68V8fjkquvybS7kwvw==}
+  /datatables.net-responsive-bs4@2.5.0:
+    resolution: {integrity: sha512-APa2fqjCoPGZWStXoMfQ1nD5QGbSc2WXyHqnsNfZ8N9aAF4E/VSIXrQ9HYUx0xqs4lfUKCpqplrOoP9oMytkiQ==}
     dependencies:
       datatables.net-bs4: 1.13.6
-      datatables.net-responsive: 2.4.0
+      datatables.net-responsive: 2.5.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-responsive@2.4.0:
-    resolution: {integrity: sha512-Acws4aEPJZX/+CQsXpuDBHfrwgl3XxWEc/zlsnJCXE/GGbqjVAtQt7SM6EBcdReMv1FbyWUlF/Uw+de11NT46A==}
+  /datatables.net-responsive@2.5.0:
+    resolution: {integrity: sha512-GL7DFiRl5qqrp5ql54Psz92xTGPR0rMcrO3hzNxMfvcfpRGL5zFNTvMpTUh59Erm6u1+KoX+j+Ig1ZD3r0iFsA==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-rowgroup-bs5@1.3.0:
-    resolution: {integrity: sha512-TKG1OzQ+q0A0K6VyAVG4a8lT+ATyGXANt2o8WKpP1SCmTkWZpIP0TvLWM8IsPmby0KH10QjtIQtP+19nqq2nOg==}
-    dependencies:
-      datatables.net-bs5: 1.13.6
-      datatables.net-rowgroup: 1.2.0
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-rowgroup-dt@1.1.0:
-    resolution: {integrity: sha512-c1aRD7qB2UhsLAdaBb6ntEtDazCYGrMn9pOYheRoLuDUphmT9y5llwhNQtkO8CIzDEcH8baIa7HwefIfZawc3g==}
-    dependencies:
-      datatables.net-dt: 1.11.1
-      datatables.net-rowgroup: 1.1.0
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-rowgroup@1.1.0:
-    resolution: {integrity: sha512-OPIiiMTbIoh1hSnJ9lx3avqKpYtEPux5iA6jpWKRdyKbdYU8UQbi5ht3b096frYQplIuAQnQcwqpGmvrf77l6g==}
-    dependencies:
-      datatables.net: 1.12.1
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-rowgroup@1.2.0:
-    resolution: {integrity: sha512-YQWL9Z70/XqBQK5YkBk/BhnmgQ1jux0ntHGpi+PYgeHEzS5lM1/oMoJEKiqIT02mVbUQOUE3z7t6rLSA0JbdvQ==}
-    dependencies:
-      datatables.net: 1.12.1
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-rowreorder-dt@1.2.1:
-    resolution: {integrity: sha512-Db0vR5MbTrN+ZInt7Xg/Vrule88pgxZBru4eHKLU7IfgC7fsJtxANWJP4CIHf2OwQuRbIyYgWMExASKqXbaHKg==}
-    dependencies:
-      datatables.net: 1.12.1
-      datatables.net-dt: 1.11.1
-      datatables.net-rowreorder: 1.2.1
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-rowreorder@1.2.0:
-    resolution: {integrity: sha512-2hhoh5VsQIGTzBLhSK4vIjFCQaMBRJwLb8Gj9eq4HjoAoylPZ5nX/tPxTUQdpS5jB1XAbTs5PChppZRo5ORLlw==}
-    dependencies:
-      datatables.net: 1.12.1
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-rowreorder@1.2.1:
-    resolution: {integrity: sha512-P1YSqZuOgrK+YPpgNIZU4Lnz77EJZhB8CJ85GrH6LmwOQdsKiL5wn/yJ3wdE/R+b7iNBjC8At/6U/UwNJjkQ0A==}
-    dependencies:
-      datatables.net: 1.12.1
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-scroller-bs5@2.1.0:
-    resolution: {integrity: sha512-DtS0KrGuGgnw5fusGZVtxD6nG6mcsfbKxpbhFfjqo26pSJy/C45E5gRv+mjluVb9iUwSCXpUbHD8Mggn5zlm4A==}
+  /datatables.net-rowgroup-bs5@1.4.0:
+    resolution: {integrity: sha512-vdz2Ini/78Aw2FDOl+ynJsmISACYOJukWokqHwddVsOzj46BNlhB/kD2OD4B1Ai/Q4Vtiogp9doTy6UGz6Ru4g==}
     dependencies:
       datatables.net-bs5: 1.13.6
-      datatables.net-scroller: 2.1.0
+      datatables.net-rowgroup: 1.4.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-scroller@2.1.0:
-    resolution: {integrity: sha512-B/MxP8YPcFtoa1cexvlcK0PXQdzy6tz+HhQlyjNpRCoRc/8ZM5VcZg+ecYfP/pRBBXZORgkOJjWYkIdoChhE0w==}
+  /datatables.net-rowgroup-dt@1.4.0:
+    resolution: {integrity: sha512-Lbfub4xdwOGz2aZrwCHaSCYe+QTSCKADNHVx9iP9YIpFKeSN7TYmFYRE/yp0Eqzbtbi+LgSXorwSjS2PxJ/UKA==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net-dt: 1.13.6
+      datatables.net-rowgroup: 1.4.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-searchbuilder-bs5@1.3.0:
-    resolution: {integrity: sha512-4qJJhWWZwxVlFgs9UJxT1Q6GeyKDnAmkrY0WwxVpSk+68HSDFpc8QXCm5YiGMbop0Q6bwZ4XaCH6AzmvYkf/pQ==}
+  /datatables.net-rowgroup@1.4.0:
+    resolution: {integrity: sha512-IyiEqCBA6B49EMm/SvW2dktZvHJCybD30qvYPehQ4Jd9QfRLgQxZtNXNsv0sFG2SX7j7+QlnJoKUb2/zdt4OQw==}
+    dependencies:
+      datatables.net: 1.13.6
+      jquery: 3.7.0
+    dev: false
+
+  /datatables.net-rowreorder-dt@1.4.1:
+    resolution: {integrity: sha512-uz2ih8jF5lOf/zk691GD0uBDLcQXJUPIM5UsKn64abRMxGgFwlbNG0Az9C0wjj3RzMdOVfrEj4Xve6HDy9/SMw==}
+    dependencies:
+      datatables.net-dt: 1.13.6
+      datatables.net-rowreorder: 1.4.1
+      jquery: 3.7.0
+    dev: false
+
+  /datatables.net-rowreorder@1.4.1:
+    resolution: {integrity: sha512-N5iS2Sts7DSfukPP9B/AVCYmn/5Yjw51Sui/HT/cuDl3QHm9aNulUqIrUBDPqmeqfrKQModbTvh8MfljdMzw3A==}
+    dependencies:
+      datatables.net: 1.13.6
+      jquery: 3.7.0
+    dev: false
+
+  /datatables.net-scroller-bs5@2.2.0:
+    resolution: {integrity: sha512-eWTgy41lpPRUoTTAspbZLWBQvsexXCVSFNapBPXX4lx1HopMM0fQ5Hxy+liU8IyuBMCHUqO1RxY/URPyWrCtuQ==}
     dependencies:
       datatables.net-bs5: 1.13.6
-      datatables.net-searchbuilder: 1.4.0
+      datatables.net-scroller: 2.2.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-searchbuilder@1.4.0:
-    resolution: {integrity: sha512-I6+a5EebX6uYFlWmc7TAk1oQvlfoGZqyLgdN4H9Rm6fL5VZv6SvWQ7y2+W9ebshMD0smKdtp8pedYc8PIh80kg==}
+  /datatables.net-scroller@2.2.0:
+    resolution: {integrity: sha512-+erNWYqb8qTGhtt23Weh/i2XuEPthHGtZobAEEqpTZSg7IXMl6jKDh41LAI0+KfvzSPURK1ttVRBtigyNS/zyA==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-searchpanes-dt@2.1.0:
-    resolution: {integrity: sha512-RteIFwOa8nrMpJ98L2sGF5hMykBzfSBOTUB/zuf05uAtSjhV+CJWqv8UTK8mbdYdOnb/mo4HiUVqAtvh+QqlGA==}
+  /datatables.net-searchbuilder-bs5@1.5.0:
+    resolution: {integrity: sha512-S4Tq5ZnbgUgIxdULqspLk2DUclw246zkDc4cIfBm+GOm6VOlKGfLyQdsPgdIhHhb2RXbZfgysQyXEM67pIBl7A==}
+    dependencies:
+      datatables.net-bs5: 1.13.6
+      datatables.net-searchbuilder: 1.5.0
+      jquery: 3.7.0
+    dev: false
+
+  /datatables.net-searchbuilder@1.5.0:
+    resolution: {integrity: sha512-JAx175eOsMDv7rTuM0RLqz+0sXk1Wtvp+VDgUvm3m/z2wgkXYs+wBOE0wzPKitK2F8F1nQy2xaqC1SvOyCK/eg==}
+    dependencies:
+      datatables.net: 1.13.6
+      jquery: 3.7.0
+    dev: false
+
+  /datatables.net-searchpanes-dt@2.2.0:
+    resolution: {integrity: sha512-z8KED6PgdghphgpOBR1ToZDA9j0TnWilKLZt7xa25sq7UuRAPyaQ+LCDuGUjbTbd7K5MccWAGQy/TQt7T2THhQ==}
     dependencies:
       datatables.net-dt: 1.13.6
       datatables.net-searchpanes: 2.2.0
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-searchpanes@2.0.0:
-    resolution: {integrity: sha512-SWwbLPlavuOerDLaq9CqYG1GXm7BsWWd0c7Qs8nD/P7k69xZ4fMNbDZSIhz8PJ6zT9KLMHwCW4s+VooCMBf0Xw==}
-    dependencies:
-      datatables.net: 1.12.1
       jquery: 3.7.0
     dev: false
 
@@ -390,41 +361,34 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-select-bs5@1.6.0:
-    resolution: {integrity: sha512-6vOeEqe+HmU6r4jKjgQsNfSkmUd6Ei7PyaSc6XpmWFZ4oRWu/tKoVQWd1KXRv5S6gZmlNowKXeafQYjpmHMLAg==}
+  /datatables.net-select-bs5@1.7.0:
+    resolution: {integrity: sha512-9lDH+V+9ewaVSpKUFMplmpxEBM6eeUl0C+feGD4BRKkrFhMAzVYfuLibm4/gJvG0burQciO9U9eoLI9ywdiWWw==}
     dependencies:
       datatables.net-bs5: 1.13.6
-      datatables.net-select: 1.5.0
+      datatables.net-select: 1.7.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-select-dt@1.4.0:
-    resolution: {integrity: sha512-DhaDr+mjYok4VxiwxU55VI/7s0qGnU6cPlw9/PFfWloQ2Q3Wy449szOCZiX2QzJqPzWbrG5WjilS9o9ZydC46A==}
+  /datatables.net-select-dt@1.7.0:
+    resolution: {integrity: sha512-2A10LF3ux9gUNxtITlNjAvBcvtrMbl/9PgK5FHtAhwcgEcDMCPIis7NTq+hXjg9IZqqZDzScw52/s5XwMNHhZQ==}
     dependencies:
       datatables.net-dt: 1.13.6
-      datatables.net-select: 1.5.0
+      datatables.net-select: 1.7.0
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-select@1.5.0:
-    resolution: {integrity: sha512-PVYcX5phmu77r3a6miTyS1zF03cgX7Mx+BXH4wCJzZW+UHe2Xz9DAHgxvLQfE7j2M8LG45Ww7RxBhnkFKk1t7A==}
+  /datatables.net-select@1.7.0:
+    resolution: {integrity: sha512-ps8eL8S2gUV7EdzMraw8mfQlHXpfuc8TC2onBxdk0snP8eizPe85VhpI3r4ULvPRTTI7vcViz8E7JV8aayA2lw==}
     dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-staterestore-dt@1.2.0:
-    resolution: {integrity: sha512-VnZ/4uZEIpxjKvIZgZVwImEf4vlf7Baa3KWU/2xBrUZWzdJpf6eQUOSJXU8Ih67x+xy38C0367/gpbv8YVBxvg==}
+  /datatables.net-staterestore-dt@1.3.0:
+    resolution: {integrity: sha512-ZvOgqL21EvNjENut6npPQpwvRMOF4A1GPq2uTf0T4ey18ROu4oioWrk/LYIZfNXnYIF5PKHyrNCNj4OpD/AzEQ==}
     dependencies:
       datatables.net-dt: 1.13.6
       datatables.net-staterestore: 1.3.0
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-staterestore@1.1.0:
-    resolution: {integrity: sha512-JNUvv6ckCyUAb669ini9xoi913fzboPmwA1o7clu8UH/LqKET0ftzeYMUixw6LEhdykx4x/fmRBrBTTz5gyK1g==}
-    dependencies:
-      datatables.net: 1.12.1
       jquery: 3.7.0
     dev: false
 
@@ -432,12 +396,6 @@ packages:
     resolution: {integrity: sha512-wTSov9cnTMRiWNrJAMftc1rFvlONPyUmZ97MWHSW/a3A/ANnmtsYlawidsxoJi/fYxtoCUMZ0nAWynLPY4bi+Q==}
     dependencies:
       datatables.net: 1.13.6
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net@1.12.1:
-    resolution: {integrity: sha512-e6XAMUoV41JdQPS/r9YRfRcmTPcCVvyZbWI+xog1Zg+kjVliMQbEkvWK5XFItmi64Cvwg+IqsZbTUJ1KSY3umA==}
-    dependencies:
       jquery: 3.7.0
     dev: false
 
