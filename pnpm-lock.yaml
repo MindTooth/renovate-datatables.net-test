@@ -72,11 +72,11 @@ dependencies:
     specifier: 1.1.0
     version: 1.1.0
   datatables.net-rowreorder:
-    specifier: 1.2.0
-    version: 1.2.0
+    specifier: 1.4.1
+    version: 1.4.1
   datatables.net-rowreorder-dt:
-    specifier: 1.2.1
-    version: 1.2.1
+    specifier: 1.4.1
+    version: 1.4.1
   datatables.net-scroller:
     specifier: 2.1.0
     version: 2.1.0
@@ -315,26 +315,18 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-rowreorder-dt@1.2.1:
-    resolution: {integrity: sha512-Db0vR5MbTrN+ZInt7Xg/Vrule88pgxZBru4eHKLU7IfgC7fsJtxANWJP4CIHf2OwQuRbIyYgWMExASKqXbaHKg==}
+  /datatables.net-rowreorder-dt@1.4.1:
+    resolution: {integrity: sha512-uz2ih8jF5lOf/zk691GD0uBDLcQXJUPIM5UsKn64abRMxGgFwlbNG0Az9C0wjj3RzMdOVfrEj4Xve6HDy9/SMw==}
     dependencies:
-      datatables.net: 1.12.1
-      datatables.net-dt: 1.11.1
-      datatables.net-rowreorder: 1.2.1
+      datatables.net-dt: 1.13.6
+      datatables.net-rowreorder: 1.4.1
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-rowreorder@1.2.0:
-    resolution: {integrity: sha512-2hhoh5VsQIGTzBLhSK4vIjFCQaMBRJwLb8Gj9eq4HjoAoylPZ5nX/tPxTUQdpS5jB1XAbTs5PChppZRo5ORLlw==}
+  /datatables.net-rowreorder@1.4.1:
+    resolution: {integrity: sha512-N5iS2Sts7DSfukPP9B/AVCYmn/5Yjw51Sui/HT/cuDl3QHm9aNulUqIrUBDPqmeqfrKQModbTvh8MfljdMzw3A==}
     dependencies:
-      datatables.net: 1.12.1
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-rowreorder@1.2.1:
-    resolution: {integrity: sha512-P1YSqZuOgrK+YPpgNIZU4Lnz77EJZhB8CJ85GrH6LmwOQdsKiL5wn/yJ3wdE/R+b7iNBjC8At/6U/UwNJjkQ0A==}
-    dependencies:
-      datatables.net: 1.12.1
+      datatables.net: 1.13.6
       jquery: 3.7.0
     dev: false
 
