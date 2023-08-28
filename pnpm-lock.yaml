@@ -90,11 +90,11 @@ dependencies:
     specifier: 1.3.0
     version: 1.3.0
   datatables.net-searchpanes:
-    specifier: 2.0.0
-    version: 2.0.0
+    specifier: 2.2.0
+    version: 2.2.0
   datatables.net-searchpanes-dt:
-    specifier: 2.1.0
-    version: 2.1.0
+    specifier: 2.2.0
+    version: 2.2.0
   datatables.net-select:
     specifier: 1.5.0
     version: 1.5.0
@@ -368,18 +368,11 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-searchpanes-dt@2.1.0:
-    resolution: {integrity: sha512-RteIFwOa8nrMpJ98L2sGF5hMykBzfSBOTUB/zuf05uAtSjhV+CJWqv8UTK8mbdYdOnb/mo4HiUVqAtvh+QqlGA==}
+  /datatables.net-searchpanes-dt@2.2.0:
+    resolution: {integrity: sha512-z8KED6PgdghphgpOBR1ToZDA9j0TnWilKLZt7xa25sq7UuRAPyaQ+LCDuGUjbTbd7K5MccWAGQy/TQt7T2THhQ==}
     dependencies:
       datatables.net-dt: 1.13.6
       datatables.net-searchpanes: 2.2.0
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-searchpanes@2.0.0:
-    resolution: {integrity: sha512-SWwbLPlavuOerDLaq9CqYG1GXm7BsWWd0c7Qs8nD/P7k69xZ4fMNbDZSIhz8PJ6zT9KLMHwCW4s+VooCMBf0Xw==}
-    dependencies:
-      datatables.net: 1.12.1
       jquery: 3.7.0
     dev: false
 
