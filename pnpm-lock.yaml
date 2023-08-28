@@ -105,11 +105,11 @@ dependencies:
     specifier: 1.4.0
     version: 1.4.0
   datatables.net-staterestore:
-    specifier: 1.1.0
-    version: 1.1.0
+    specifier: 1.3.0
+    version: 1.3.0
   datatables.net-staterestore-dt:
-    specifier: 1.2.0
-    version: 1.2.0
+    specifier: 1.3.0
+    version: 1.3.0
 
 packages:
 
@@ -413,18 +413,11 @@ packages:
       jquery: 3.7.0
     dev: false
 
-  /datatables.net-staterestore-dt@1.2.0:
-    resolution: {integrity: sha512-VnZ/4uZEIpxjKvIZgZVwImEf4vlf7Baa3KWU/2xBrUZWzdJpf6eQUOSJXU8Ih67x+xy38C0367/gpbv8YVBxvg==}
+  /datatables.net-staterestore-dt@1.3.0:
+    resolution: {integrity: sha512-ZvOgqL21EvNjENut6npPQpwvRMOF4A1GPq2uTf0T4ey18ROu4oioWrk/LYIZfNXnYIF5PKHyrNCNj4OpD/AzEQ==}
     dependencies:
       datatables.net-dt: 1.13.6
       datatables.net-staterestore: 1.3.0
-      jquery: 3.7.0
-    dev: false
-
-  /datatables.net-staterestore@1.1.0:
-    resolution: {integrity: sha512-JNUvv6ckCyUAb669ini9xoi913fzboPmwA1o7clu8UH/LqKET0ftzeYMUixw6LEhdykx4x/fmRBrBTTz5gyK1g==}
-    dependencies:
-      datatables.net: 1.12.1
       jquery: 3.7.0
     dev: false
 
